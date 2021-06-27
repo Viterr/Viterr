@@ -4,19 +4,12 @@
 
 Comencé mi carrera como FullStack Developer en el año 2014, trabajando en diversos proyectos y formando parte de diferentes equipos . En constante proceso de aprendizaje de nuevas tecnologias que me permitan mejorar la calidad del software y principalmente la experiencia del usuario. Enfocado en encontrar soluciones optimas a nivel de codigo.
 
-<img align="right" alt="GIF" src="code.gif" width="500" height="300" />
-
-
-<br/>
+<img align="right" alt="GIF" src="code.gif" width="500" height="320" />
 
 🌱 Estoy aprendiendo **TypeScript y Firebase**
 
 💬 Preguntame como iniciarte en **Javascript, HTML, CSS**
-
-
 <h3 align="left">Lenguajes y Herramientas</h3>
-
-<br/>
 <p>
     <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&style=flat-square" />
     <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
@@ -37,14 +30,12 @@ Comencé mi carrera como FullStack Developer en el año 2014, trabajando en dive
     <img alt="git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
 </p>
-<br/>
 <h3> 📣  Contacta conmigo : <h3/>
-
-<a href="mailto:viterr@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/victormoreno-/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-<br/>
 <p>
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viterr&" alt="viterr" />
-    <img align="center" width="480px" src="https://github-readme-stats.vercel.app/api?username=viterr&show_icons=true&locale=en" alt="viterr" />
+    <a href="mailto:viterr@gmail.com"><img src="https://img.shields.io/badge/e‑mail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/victormoreno-/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
+    
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=viterr&" alt="viterr" /></p>
+
+
